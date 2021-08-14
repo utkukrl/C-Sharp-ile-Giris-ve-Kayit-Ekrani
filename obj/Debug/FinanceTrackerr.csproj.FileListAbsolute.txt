@@ -1,0 +1,12 @@
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\bin\Debug\FinanceTrackerr.exe.config
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\bin\Debug\FinanceTrackerr.exe
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\bin\Debug\FinanceTrackerr.pdb
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.csproj.AssemblyReference.cache
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.Properties.Resources.resources
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.csproj.GenerateResource.cache
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.csproj.CoreCompileInputs.cache
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.exe
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.pdb
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.Giris.resources
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.AnaSayfa.resources
+C:\Users\UTKU\source\repos\FinanceTracker\FinanceTrackerr\obj\Debug\FinanceTrackerr.KayıtFormu.resources
